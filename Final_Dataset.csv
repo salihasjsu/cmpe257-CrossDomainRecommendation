@@ -4,45 +4,39 @@ userId,movieId,rating,title,genres
 1,32,3.5,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
 2,3,4.0,Grumpier Old Men (1995),Comedy|Romance
 2,62,5.0,Mr. Holland's Opus (1995),Drama
-2,70,5.0,From Dusk Till Dawn (1996),Action|Comedy|Horror|Thriller
 3,1,4.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 3,24,3.0,Powder (1995),Drama|Sci-Fi
-3,32,4.0,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
 4,6,3.0,Heat (1995),Action|Crime|Thriller
 4,10,4.0,GoldenEye (1995),Action|Adventure|Thriller
-4,19,3.0,Ace Ventura: When Nature Calls (1995),Comedy
 5,2,3.0,Jumanji (1995),Adventure|Children|Fantasy
 5,11,5.0,"American President, The (1995)",Comedy|Drama|Romance
+5,17,3.0,Sense and Sensibility (1995),Drama|Romance
 6,1,5.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 6,3,3.0,Grumpier Old Men (1995),Comedy|Romance
+6,7,5.0,Sabrina (1995),Comedy|Romance
 7,3,3.0,Grumpier Old Men (1995),Comedy|Romance
 7,7,3.0,Sabrina (1995),Comedy|Romance
-7,11,4.0,"American President, The (1995)",Comedy|Drama|Romance
 8,1,4.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 8,3,5.0,Grumpier Old Men (1995),Comedy|Romance
 8,6,3.0,Heat (1995),Action|Crime|Thriller
 9,356,4.0,Forrest Gump (1994),Comedy|Drama|Romance|War
 9,858,5.0,"Godfather, The (1972)",Crime|Drama
-9,1219,3.0,Psycho (1960),Crime|Horror
 10,1,4.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 10,11,4.0,"American President, The (1995)",Comedy|Drama|Romance
+10,25,4.0,Leaving Las Vegas (1995),Drama|Romance
 11,1,4.5,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 11,10,2.5,GoldenEye (1995),Action|Adventure|Thriller
 11,19,3.5,Ace Ventura: When Nature Calls (1995),Comedy
 12,1,4.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 12,3,3.0,Grumpier Old Men (1995),Comedy|Romance
-12,5,2.0,Father of the Bride Part II (1995),Comedy
 13,1,4.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 13,2,3.0,Jumanji (1995),Adventure|Children|Fantasy
-13,10,3.0,GoldenEye (1995),Action|Adventure|Thriller
 14,1,4.5,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 14,7,3.5,Sabrina (1995),Comedy|Romance
 15,10,2.0,GoldenEye (1995),Action|Adventure|Thriller
 15,11,3.0,"American President, The (1995)",Comedy|Drama|Romance
-15,14,2.0,Nixon (1995),Drama
 16,1,3.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 16,6,3.0,Heat (1995),Action|Crime|Thriller
-16,39,4.0,Clueless (1995),Comedy|Romance
 17,6,4.0,Heat (1995),Action|Crime|Thriller
 17,110,4.0,Braveheart (1995),Action|Drama|War
 18,186,4.0,Nine Months (1995),Comedy|Romance
@@ -51,6 +45,7 @@ userId,movieId,rating,title,genres
 19,3,4.0,Grumpier Old Men (1995),Comedy|Romance
 20,16,4.0,Casino (1995),Crime|Drama
 20,19,2.5,Ace Ventura: When Nature Calls (1995),Comedy
+20,111,4.5,Taxi Driver (1976),Crime|Drama|Thriller
 21,6,4.0,Heat (1995),Action|Crime|Thriller
 21,16,5.0,Casino (1995),Crime|Drama
 22,1,3.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
@@ -60,10 +55,13 @@ userId,movieId,rating,title,genres
 23,25,4.0,Leaving Las Vegas (1995),Drama|Romance
 24,1,4.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 24,5,2.0,Father of the Bride Part II (1995),Comedy
+24,6,4.0,Heat (1995),Action|Crime|Thriller
 25,21,3.5,Get Shorty (1995),Comedy|Crime|Thriller
 25,22,4.0,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
+25,31,3.0,Dangerous Minds (1995),Drama
 26,10,3.0,GoldenEye (1995),Action|Adventure|Thriller
 26,19,3.0,Ace Ventura: When Nature Calls (1995),Comedy
+26,21,4.0,Get Shorty (1995),Comedy|Crime|Thriller
 27,11,4.0,"American President, The (1995)",Comedy|Drama|Romance
 27,29,3.0,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",Adventure|Drama|Fantasy|Mystery|Sci-Fi
 27,47,4.5,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
@@ -80,7 +78,6 @@ userId,movieId,rating,title,genres
 32,10,3.0,GoldenEye (1995),Action|Adventure|Thriller
 33,157,3.0,Canadian Bacon (1995),Comedy|War
 33,161,4.0,Crimson Tide (1995),Drama|Thriller|War
-33,293,5.0,Léon: The Professional (a.k.a. The Professional) (Léon) (1994),Action|Crime|Drama|Thriller
 34,1,5.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 34,2,3.0,Jumanji (1995),Adventure|Children|Fantasy
 34,7,3.0,Sabrina (1995),Comedy|Romance
@@ -88,9 +85,9 @@ userId,movieId,rating,title,genres
 35,50,5.0,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
 36,145,3.5,Bad Boys (1995),Action|Comedy|Crime|Drama|Thriller
 36,163,3.0,Desperado (1995),Action|Romance|Western
-36,196,3.0,Species (1995),Horror|Sci-Fi
 37,1057,3.0,Everyone Says I Love You (1996),Comedy|Musical|Romance
 37,1183,5.0,"English Patient, The (1996)",Drama|Romance|War
+37,1407,4.0,Scream (1996),Comedy|Horror|Mystery|Thriller
 38,3,3.0,Grumpier Old Men (1995),Comedy|Romance
 38,7,5.0,Sabrina (1995),Comedy|Romance
 39,1,5.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
@@ -100,6 +97,7 @@ userId,movieId,rating,title,genres
 40,50,3.0,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
 41,4,2.0,Waiting to Exhale (1995),Comedy|Drama|Romance
 41,58,5.0,"Postman, The (Postino, Il) (1994)",Comedy|Drama|Romance
+41,85,4.0,Angels and Insects (1995),Drama|Romance
 42,31,4.5,Dangerous Minds (1995),Drama
 42,111,4.0,Taxi Driver (1976),Crime|Drama|Thriller
 42,260,4.5,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
@@ -108,28 +106,26 @@ userId,movieId,rating,title,genres
 43,232,4.0,Eat Drink Man Woman (Yin shi nan nu) (1994),Comedy|Drama|Romance
 44,260,4.0,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
 44,296,4.0,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
-44,349,4.0,Clear and Present Danger (1994),Action|Crime|Drama|Thriller
 45,318,1.5,"Shawshank Redemption, The (1994)",Crime|Drama
 45,353,2.0,"Crow, The (1994)",Action|Crime|Fantasy|Thriller
 45,551,4.5,"Nightmare Before Christmas, The (1993)",Animation|Children|Fantasy|Musical
 46,5,3.0,Father of the Bride Part II (1995),Comedy
 46,6,2.0,Heat (1995),Action|Crime|Thriller
-46,11,4.0,"American President, The (1995)",Comedy|Drama|Romance
 47,1,1.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 47,34,0.5,Babe (1995),Children|Drama
-47,47,3.0,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
 48,6,4.0,Heat (1995),Action|Crime|Thriller
 48,14,3.0,Nixon (1995),Drama
 48,17,4.0,Sense and Sensibility (1995),Drama|Romance
 49,50,5.0,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
 49,163,3.5,Desperado (1995),Action|Romance|Western
-49,216,3.0,Billy Madison (1995),Comedy
 50,32,4.0,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
 50,39,3.5,Clueless (1995),Comedy|Romance
 51,19,3.0,Ace Ventura: When Nature Calls (1995),Comedy
 51,47,5.0,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+51,50,5.0,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
 52,19,3.0,Ace Ventura: When Nature Calls (1995),Comedy
 52,34,4.0,Babe (1995),Children|Drama
+52,110,4.0,Braveheart (1995),Action|Drama|War
 53,1,4.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 53,21,5.0,Get Shorty (1995),Comedy|Crime|Thriller
 53,29,5.0,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",Adventure|Drama|Fantasy|Mystery|Sci-Fi
@@ -142,13 +138,16 @@ userId,movieId,rating,title,genres
 56,16,3.0,Casino (1995),Crime|Drama
 57,31,3.5,Dangerous Minds (1995),Drama
 57,432,3.5,City Slickers II: The Legend of Curly's Gold (1994),Adventure|Comedy|Western
+57,480,5.0,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
 58,1,5.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 58,6,4.5,Heat (1995),Action|Crime|Thriller
 58,11,4.5,"American President, The (1995)",Comedy|Drama|Romance
 59,1,4.5,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 59,50,4.0,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
+59,318,4.5,"Shawshank Redemption, The (1994)",Crime|Drama
 60,31,4.0,Dangerous Minds (1995),Drama
 60,157,4.5,Canadian Bacon (1995),Comedy|War
+60,256,2.0,Junior (1994),Comedy|Sci-Fi
 61,4,3.0,Waiting to Exhale (1995),Comedy|Drama|Romance
 61,31,3.5,Dangerous Minds (1995),Drama
 61,39,5.0,Clueless (1995),Comedy|Romance
@@ -158,29 +157,26 @@ userId,movieId,rating,title,genres
 63,110,3.0,Braveheart (1995),Action|Drama|War
 64,47,5.0,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
 64,110,5.0,Braveheart (1995),Action|Drama|War
+64,150,5.0,Apollo 13 (1995),Adventure|Drama|IMAX
 65,24,4.0,Powder (1995),Drama|Sci-Fi
 65,318,5.0,"Shawshank Redemption, The (1994)",Crime|Drama
-65,356,5.0,Forrest Gump (1994),Comedy|Drama|Romance|War
 66,1,4.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 66,21,5.0,Get Shorty (1995),Comedy|Crime|Thriller
-66,34,4.0,Babe (1995),Children|Drama
 67,10,4.0,GoldenEye (1995),Action|Adventure|Thriller
 67,25,5.0,Leaving Las Vegas (1995),Drama|Romance
 68,10,4.0,GoldenEye (1995),Action|Adventure|Thriller
 68,19,3.0,Ace Ventura: When Nature Calls (1995),Comedy
 69,1,4.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 69,5,3.0,Father of the Bride Part II (1995),Comedy
-69,6,4.0,Heat (1995),Action|Crime|Thriller
 70,6,5.0,Heat (1995),Action|Crime|Thriller
 70,10,2.0,GoldenEye (1995),Action|Adventure|Thriller
-70,16,5.0,Casino (1995),Crime|Drama
 71,318,5.0,"Shawshank Redemption, The (1994)",Crime|Drama
 71,356,5.0,Forrest Gump (1994),Comedy|Drama|Romance|War
+71,1704,5.0,Good Will Hunting (1997),Drama|Romance
 72,19,3.5,Ace Ventura: When Nature Calls (1995),Comedy
 72,32,5.0,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
 73,17,3.0,Sense and Sensibility (1995),Drama|Romance
 73,34,5.0,Babe (1995),Children|Drama
-73,50,4.0,"Usual Suspects, The (1995)",Crime|Mystery|Thriller
 74,25,5.0,Leaving Las Vegas (1995),Drama|Romance
 74,36,4.0,Dead Man Walking (1995),Crime|Drama
 74,58,5.0,"Postman, The (Postino, Il) (1994)",Comedy|Drama|Romance
@@ -189,14 +185,18 @@ userId,movieId,rating,title,genres
 75,21,4.0,Get Shorty (1995),Comedy|Crime|Thriller
 76,47,4.0,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
 76,110,4.0,Braveheart (1995),Action|Drama|War
+76,316,2.0,Stargate (1994),Action|Adventure|Sci-Fi
 77,19,2.0,Ace Ventura: When Nature Calls (1995),Comedy
 77,32,3.5,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
+77,44,1.5,Mortal Kombat (1995),Action|Adventure|Fantasy
 78,29,4.0,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",Adventure|Drama|Fantasy|Mystery|Sci-Fi
 78,110,3.0,Braveheart (1995),Action|Drama|War
 79,110,4.0,Braveheart (1995),Action|Drama|War
 79,497,4.0,Much Ado About Nothing (1993),Comedy|Romance
+79,593,4.0,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
 80,1,3.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 80,3,3.0,Grumpier Old Men (1995),Comedy|Romance
+80,7,3.0,Sabrina (1995),Comedy|Romance
 81,356,5.0,Forrest Gump (1994),Comedy|Drama|Romance|War
 81,480,4.0,Jurassic Park (1993),Action|Adventure|Sci-Fi|Thriller
 81,593,5.0,"Silence of the Lambs, The (1991)",Crime|Horror|Thriller
@@ -206,27 +206,28 @@ userId,movieId,rating,title,genres
 83,163,3.5,Desperado (1995),Action|Romance|Western
 84,1,5.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 84,24,4.0,Powder (1995),Drama|Sci-Fi
+84,44,4.0,Mortal Kombat (1995),Action|Adventure|Fantasy
 85,17,4.5,Sense and Sensibility (1995),Drama|Romance
 85,262,4.5,"Little Princess, A (1995)",Children|Drama
 85,596,3.5,Pinocchio (1940),Animation|Children|Fantasy|Musical
 86,158,2.0,Casper (1995),Adventure|Children
 86,260,4.5,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
+86,318,5.0,"Shawshank Redemption, The (1994)",Crime|Drama
 87,11,3.0,"American President, The (1995)",Comedy|Drama|Romance
 87,19,1.0,Ace Ventura: When Nature Calls (1995),Comedy
+87,21,3.0,Get Shorty (1995),Comedy|Crime|Thriller
 88,2,1.0,Jumanji (1995),Adventure|Children|Fantasy
 88,7,1.0,Sabrina (1995),Comedy|Romance
-88,16,4.0,Casino (1995),Crime|Drama
 89,111,5.0,Taxi Driver (1976),Crime|Drama|Thriller
 89,318,5.0,"Shawshank Redemption, The (1994)",Crime|Drama
+89,527,4.0,Schindler's List (1993),Drama|War
 90,1,3.5,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 90,10,3.5,GoldenEye (1995),Action|Adventure|Thriller
-90,34,4.0,Babe (1995),Children|Drama
 91,1,4.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 91,2,3.5,Jumanji (1995),Adventure|Children|Fantasy
 91,3,3.0,Grumpier Old Men (1995),Comedy|Romance
 92,162,5.0,Crumb (1994),Documentary
 92,203,2.0,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",Comedy
-92,236,3.0,French Kiss (1995),Action|Comedy|Romance
 93,1,5.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 93,19,4.0,Ace Ventura: When Nature Calls (1995),Comedy
 93,22,5.0,Copycat (1995),Crime|Drama|Horror|Mystery|Thriller
@@ -234,17 +235,16 @@ userId,movieId,rating,title,genres
 94,150,4.0,Apollo 13 (1995),Adventure|Drama|IMAX
 95,31,3.0,Dangerous Minds (1995),Drama
 95,32,4.0,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
-95,46,4.0,How to Make an American Quilt (1995),Drama|Romance
 96,1,3.5,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 96,3,4.0,Grumpier Old Men (1995),Comedy|Romance
 96,29,4.0,"City of Lost Children, The (Cité des enfants perdus, La) (1995)",Adventure|Drama|Fantasy|Mystery|Sci-Fi
 97,1,4.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 97,52,4.0,Mighty Aphrodite (1995),Comedy|Drama|Romance
-97,356,5.0,Forrest Gump (1994),Comedy|Drama|Romance|War
 98,6,4.0,Heat (1995),Action|Crime|Thriller
 98,47,4.5,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+98,296,4.5,Pulp Fiction (1994),Comedy|Crime|Drama|Thriller
 99,1,4.0,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
 99,47,4.5,Seven (a.k.a. Se7en) (1995),Mystery|Thriller
+99,260,4.0,Star Wars: Episode IV - A New Hope (1977),Action|Adventure|Sci-Fi
 100,14,3.0,Nixon (1995),Drama
 100,25,4.0,Leaving Las Vegas (1995),Drama|Romance
-100,32,3.0,Twelve Monkeys (a.k.a. 12 Monkeys) (1995),Mystery|Sci-Fi|Thriller
