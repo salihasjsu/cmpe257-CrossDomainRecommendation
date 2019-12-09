@@ -6,7 +6,6 @@ https://github.com/preranashekhar/cross-domain-recommender
 
 ### File structure
 - recommendation.ipynb - contains notebook that has the implementation for the recommendation system
-- output.html - contains the output of the notebook
 
 
 ### Data sources
